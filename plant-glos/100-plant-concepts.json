@@ -1,0 +1,408 @@
+{
+    "name": "100-plant-concepts",
+    "topic": "House Plant Care",
+    "audience": "Indoor Gardeners",
+    "concepts": [
+      {
+        "name": "House Plants",
+        "explanation": "House plants are potted or container-grown plants cultivated indoors for decorative, aesthetic, or air-purifying purposes."
+      },
+      {
+        "name": "Indoor Gardening",
+        "explanation": "Indoor gardening involves the cultivation of plants within indoor spaces, such as homes, offices, or greenhouses."
+      },
+      {
+        "name": "Plant Care",
+        "explanation": "Plant care encompasses all activities and practices required to maintain the health, growth, and vitality of house plants."
+      },
+      {
+        "name": "Light Requirements",
+        "explanation": "Light requirements refer to the amount and type of light necessary for a specific plant's growth and development."
+      },
+      {
+        "name": "Watering",
+        "explanation": "Watering involves providing the appropriate amount of water to house plants to maintain soil moisture and hydration."
+      },
+      {
+        "name": "Soil",
+        "explanation": "Soil refers to the growing medium used for house plants, which can vary in composition and quality depending on plant needs."
+      },
+      {
+        "name": "Fertilization",
+        "explanation": "Fertilization is the process of supplying essential nutrients to house plants to support their growth and flowering."
+      },
+      {
+        "name": "Pruning",
+        "explanation": "Pruning is the practice of trimming or cutting back plant foliage or branches to shape, remove dead growth, or encourage new growth."
+      },
+      {
+        "name": "Repotting",
+        "explanation": "Repotting involves transferring a house plant to a larger or different container with fresh soil to support continued growth."
+      },
+      {
+        "name": "Humidity",
+        "explanation": "Humidity refers to the moisture content in the air and is an important factor in providing the right environment for some house plants."
+      },
+      {
+        "name": "Temperature",
+        "explanation": "Temperature affects plant health and growth, with different house plants having specific temperature preferences."
+      },
+      {
+        "name": "Pests",
+        "explanation": "Pests are unwanted insects, mites, or organisms that can harm or damage house plants, requiring pest management."
+      },
+      {
+        "name": "Disease Control",
+        "explanation": "Disease control involves preventing and managing diseases that can affect the health of house plants, including fungal and bacterial infections."
+      },
+      {
+        "name": "Plant Selection",
+        "explanation": "Plant selection is the process of choosing suitable house plants based on factors like lighting, space, and personal preferences."
+      },
+      {
+        "name": "Sunlight",
+        "explanation": "Sunlight provides natural light to house plants, and different plants require varying levels of sunlight for healthy growth."
+      },
+      {
+        "name": "Artificial Light",
+        "explanation": "Artificial light sources, such as grow lights, are used to supplement or replace natural sunlight for indoor plants."
+      },
+      {
+        "name": "Watering Schedule",
+        "explanation": "A watering schedule is a planned routine for when and how often house plants should be watered to prevent over or under-watering."
+      },
+      {
+        "name": "Potting Mix",
+        "explanation": "Potting mix is the specific blend of soil and other components used in plant containers to promote healthy root growth."
+      },
+      {
+        "name": "Drainage",
+        "explanation": "Drainage refers to the ability of the plant container to allow excess water to escape, preventing waterlogged soil and root rot."
+      },
+      {
+        "name": "Root Health",
+        "explanation": "Root health is crucial for house plants, as healthy roots support overall plant vitality and nutrient uptake."
+      },
+      {
+        "name": "Overwatering",
+        "explanation": "Overwatering occurs when a house plant receives excessive water, leading to waterlogged soil and potential root rot."
+      },
+      {
+        "name": "Underwatering",
+        "explanation": "Underwatering happens when a house plant doesn't receive enough water, causing soil to dry out and plant stress."
+      },
+      {
+        "name": "pH Levels",
+        "explanation": "pH levels refer to the acidity or alkalinity of the soil, affecting nutrient availability to house plants."
+      },
+      {
+        "name": "Nutrients",
+        "explanation": "Nutrients are essential elements that house plants require for growth, including macronutrients (NPK) and micronutrients."
+      },
+      {
+        "name": "Fertilizer Types",
+        "explanation": "Fertilizer types vary and can be organic or chemical, each offering different benefits and nutrient sources."
+      },
+      {
+        "name": "Organic Fertilizers",
+        "explanation": "Organic fertilizers are derived from natural sources and improve soil quality while providing nutrients to house plants."
+      },
+      {
+        "name": "Chemical Fertilizers",
+        "explanation": "Chemical fertilizers are synthetic and provide specific nutrient ratios, making them effective for targeted plant nutrition."
+      },
+      {
+        "name": "Leaf Pruning",
+        "explanation": "Leaf pruning involves trimming or removing individual leaves from a plant to manage its size, shape, or aesthetics."
+      },
+      {
+        "name": "Stem Pruning",
+        "explanation": "Stem pruning is the practice of cutting back stems or branches of a plant to promote branching, bushiness, or shape."
+      },
+      {
+        "name": "Deadheading",
+        "explanation": "Deadheading entails removing spent or faded flowers from a plant to encourage further blooming and tidiness."
+      },
+      {
+        "name": "Pinching",
+        "explanation": "Pinching is a technique where the tips of stems or growing points are nipped off to encourage branching and denser growth."
+      },
+      {
+        "name": "Air Pruning",
+        "explanation": "Air pruning occurs when plant roots are exposed to air, stimulating root branching and preventing root circling."
+      },
+      {
+        "name": "Root-Bound",
+        "explanation": "A plant is considered root-bound when its roots have outgrown the container, potentially causing stunted growth."
+      },
+      {
+        "name": "Transplanting",
+        "explanation": "Transplanting involves moving a plant to a larger or different container or location to provide more space for growth."
+      },
+      {
+        "name": "Container Size",
+        "explanation": "Container size refers to the size of the pot or container in which a house plant is grown, influencing root development."
+      },
+      {
+        "name": "Root Rot",
+        "explanation": "Root rot is a fungal disease that affects plant roots due to overly wet conditions, leading to root decay and plant decline."
+      },
+      {
+        "name": "Humidity Tray",
+        "explanation": "A humidity tray is a shallow tray filled with water placed under a potted plant to increase local humidity."
+      },
+      {
+        "name": "Mist Spraying",
+        "explanation": "Mist spraying involves lightly misting the foliage of house plants with water to raise humidity levels around the plant."
+      },
+      {
+        "name": "Room Humidity",
+        "explanation": "Room humidity is the ambient moisture content in the indoor environment, which can affect plant health, especially for humidity-sensitive plants."
+      },
+      {
+        "name": "Temperature Range",
+        "explanation": "Temperature range indicates the acceptable temperature limits for a particular house plant's health and growth."
+      },
+      {
+        "name": "Seasonal Changes",
+        "explanation": "Seasonal changes refer to the variations in environmental conditions and light levels that house plants experience throughout the year."
+      },
+      {
+        "name": "Pest Prevention",
+        "explanation": "Pest prevention involves proactive measures taken to deter or avoid infestations of insects and other pests on house plants."
+      },
+      {
+        "name": "Insecticidal Soap",
+        "explanation": "Insecticidal soap is a natural and safe pesticide used to control soft-bodied insects like aphids, mealybugs, and spider mites."
+      },
+      {
+        "name": "Neem Oil",
+        "explanation": "Neem oil is an organic pesticide derived from the neem tree and is effective against a variety of plant pests, including aphids and mites."
+      },
+      {
+        "name": "Beneficial Insects",
+        "explanation": "Beneficial insects are natural predators or parasites that can be introduced to control pest populations in house plants."
+      },
+      {
+        "name": "Mealybugs",
+        "explanation": "Mealybugs are small, soft-bodied insects that feed on plant sap and can infest house plants, causing damage if not controlled."
+      },
+      {
+        "name": "Aphids",
+        "explanation": "Aphids are common plant pests that feed on plant sap and can damage house plants by causing leaf distortion and yellowing."
+      },
+      {
+        "name": "Spider Mites",
+        "explanation": "Spider mites are tiny arachnids that can infest house plants, causing stippling, webbing, and leaf damage."
+      },
+      {
+        "name": "Scale Insects",
+        "explanation": "Scale insects are small, immobile pests that attach themselves to plant stems and leaves, sapping nutrients and causing plant stress."
+      },
+      {
+        "name": "Whiteflies",
+        "explanation": "Whiteflies are small insects that feed on plant sap and can infest house plants, leading to yellowing leaves and honeydew production."
+      },
+      {
+        "name": "Fungal Diseases",
+        "explanation": "Fungal diseases are plant diseases caused by various fungi, affecting house plants and leading to symptoms like leaf spots and wilting."
+      },
+      {
+        "name": "Bacterial Infections",
+        "explanation": "Bacterial infections are diseases caused by bacteria and can affect house plants, causing rot, wilting, and other symptoms."
+      },
+      {
+        "name": "Mold",
+        "explanation": "Mold refers to fungal growth on plant surfaces or in soil, often resulting from excessive moisture and poor ventilation."
+      },
+      {
+        "name": "Yellowing Leaves",
+        "explanation": "Yellowing leaves indicate a common issue in house plants, which can result from various causes, including nutrient deficiencies."
+      },
+      {
+        "name": "Leaf Drop",
+        "explanation": "Leaf drop is the natural shedding of leaves by house plants, but excessive leaf drop can indicate stress or health problems."
+      },
+      {
+        "name": "Leaf Curling",
+        "explanation": "Leaf curling is a common symptom in house plants and can result from factors like water stress, pests, or environmental conditions."
+      },
+      {
+        "name": "Leaf Spot",
+        "explanation": "Leaf spot is a plant disease characterized by dark or discolored spots on leaves and can be caused by various pathogens."
+      },
+      {
+        "name": "Leaf Browning",
+        "explanation": "Leaf browning refers to the discoloration or browning of leaf edges or tips and can result from factors like dry air or nutrient issues."
+      },
+      {
+        "name": "Leaf Wilting",
+        "explanation": "Leaf wilting is a sign of water stress in house plants, where leaves lose turgidity and droop due to insufficient moisture."
+      },
+      {
+        "name": "Leaf Edges",
+        "explanation": "Leaf edges, also known as leaf margins, can vary in shape and texture and are important for identifying plant species."
+      },
+      {
+        "name": "Variegation",
+        "explanation": "Variegation is the presence of differently colored zones or patterns, often in the leaves, making some house plants more visually appealing."
+      },
+      {
+        "name": "Evergreen",
+        "explanation": "Evergreen house plants retain their leaves and remain green throughout the year, providing year-round foliage and interest."
+      },
+      {
+        "name": "Deciduous",
+        "explanation": "Deciduous house plants shed their leaves in response to seasonal changes, often going dormant during certain periods."
+      },
+      {
+        "name": "Succulents",
+        "explanation": "Succulents are house plants characterized by their fleshy leaves and ability to store water, making them drought-tolerant."
+      },
+      {
+        "name": "Cacti",
+        "explanation": "Cacti are a specific type of succulent known for their unique appearance, including spines or prickly structures."
+      },
+      {
+        "name": "Ferns",
+        "explanation": "Ferns are house plants with delicate, feathery fronds and thrive in environments with high humidity."
+      },
+      {
+        "name": "Orchids",
+        "explanation": "Orchids are prized for their elegant and diverse flowers, making them popular as both decorative and collectible house plants."
+      },
+      {
+        "name": "Ficus",
+        "explanation": "Ficus plants, including the Fiddle Leaf Fig, are known for their large, glossy leaves and make striking indoor statement plants."
+      },
+      {
+        "name": "Snake Plant",
+        "explanation": "Snake plants, or Sansevierias, are hardy and low-maintenance house plants with upright, sword-shaped leaves."
+      },
+      {
+        "name": "Peace Lily",
+        "explanation": "Peace lilies are elegant house plants with distinctive white blooms and glossy, dark green foliage."
+      },
+      {
+        "name": "Pothos",
+        "explanation": "Pothos, or Devil's Ivy, is a popular trailing house plant with heart-shaped leaves and is excellent for beginners."
+      },
+      {
+        "name": "Rubber Plant",
+        "explanation": "Rubber plants have broad, dark green leaves and are known for their air-purifying qualities and ease of care."
+      },
+      {
+        "name": "ZZ Plant",
+        "explanation": "ZZ plants, or Zamioculcas zamiifolia, are hardy, drought-tolerant house plants with glossy, dark green foliage."
+      },
+      {
+        "name": "Spider Plant",
+        "explanation": "Spider plants have arching, grass-like leaves with white stripes and produce baby plantlets, making them attractive and easy to propagate."
+      },
+      {
+        "name": "Aloe Vera",
+        "explanation": "Aloe vera is a succulent house plant known for its soothing gel, which can be used for various skincare and medicinal purposes."
+      },
+      {
+        "name": "Monstera",
+        "explanation": "Monstera plants are characterized by their unique, fenestrated leaves with natural holes and are highly sought after for their tropical aesthetics."
+      },
+      {
+        "name": "Bonsai",
+        "explanation": "Bonsai is the art of cultivating miniature trees and shrubs, often as indoor plants, through careful pruning and training."
+      },
+      {
+        "name": "Dracaena",
+        "explanation": "Dracaena plants come in various species with diverse leaf shapes and colors, making them versatile house plants."
+      },
+      {
+        "name": "Bromeliad",
+        "explanation": "Bromeliads are colorful and exotic-looking house plants known for their striking rosette-shaped foliage and occasional vibrant blooms."
+      },
+      {
+        "name": "African Violet",
+        "explanation": "African violets are compact, flowering house plants with velvety leaves and a wide range of flower colors."
+      },
+      {
+        "name": "Jade Plant",
+        "explanation": "The Jade Plant is a succulent house plant known for its thick, fleshy leaves and resilience in indoor environments."
+      },
+      {
+        "name": "Maranta",
+        "explanation": "Marantas, or Prayer Plants, are house plants with distinctive patterns on their leaves and responsive leaf movement."
+      },
+      {
+        "name": "Air Plants",
+        "explanation": "Air plants, or Tillandsias, are unique house plants that don't require soil and can be mounted or displayed in various creative ways."
+      },
+      {
+        "name": "Philodendron",
+        "explanation": "Philodendrons are popular house plants with heart-shaped or uniquely shaped leaves, coming in various species and cultivars."
+      },
+      {
+        "name": "Croton",
+        "explanation": "Crotons are vibrant and colorful house plants known for their striking foliage, making them stand out in indoor spaces."
+      },
+      {
+        "name": "Calathea",
+        "explanation": "Calatheas are house plants with decorative, patterned leaves and are appreciated for their air-purifying qualities."
+      },
+      {
+        "name": "Begonia",
+        "explanation": "Begonias are flowering house plants with a wide range of species and hybrid varieties, known for their showy blooms."
+      },
+      {
+        "name": "Sansevieria",
+        "explanation": "Sansevierias, or Snake Plants, are hardy and low-maintenance house plants with upright, sword-shaped leaves."
+      },
+      {
+        "name": "Boston Fern",
+        "explanation": "Boston Ferns are lush and feathery house plants with delicate fronds, requiring high humidity for optimal growth."
+      },
+      {
+        "name": "Dieffenbachia",
+        "explanation": "Dieffenbachias are house plants with large, variegated leaves, but they should be handled with care due to their toxic sap."
+      },
+      {
+        "name": "Ivy",
+        "explanation": "Ivies are trailing or climbing house plants with cascading vines and are well-suited for hanging baskets or trellises."
+      },
+      {
+        "name": "Norfolk Island Pine",
+        "explanation": "Norfolk Island Pines are evergreen house plants that resemble small pine trees and are often used as decorative holiday trees."
+      },
+      {
+        "name": "Palms",
+        "explanation": "Palms encompass a variety of house plants with distinct palm-like foliage, adding a touch of the tropics to indoor spaces."
+      },
+      {
+        "name": "Peperomia",
+        "explanation": "Peperomias are compact house plants with succulent-like leaves and are easy to care for, making them ideal for beginners."
+      },
+      {
+        "name": "Schefflera",
+        "explanation": "Scheffleras, or Umbrella Plants, are large and bushy house plants with compound leaves, creating a tropical ambiance."
+      },
+      {
+        "name": "Watering Can",
+        "explanation": "A watering can is a gardening tool used to provide a controlled and gentle stream of water for house plants, ensuring proper hydration."
+      },
+      {
+        "name": "Pruning Shears",
+        "explanation": "Pruning shears, also known as secateurs or pruning scissors, are cutting tools used to trim and shape house plants."
+      },
+      {
+        "name": "Fertilizer Spreader",
+        "explanation": "A fertilizer spreader is a tool used to evenly distribute fertilizers or soil amendments onto the soil surface of house plants."
+      },
+      {
+        "name": "Potting Trowel",
+        "explanation": "A potting trowel is a hand tool with a pointed blade used for digging and transferring soil when repotting or planting house plants."
+      },
+      {
+        "name": "Plant Stand",
+        "explanation": "A plant stand is a decorative or functional accessory that elevates house plants, allowing for better display and light exposure."
+      }
+    ]
+  }
+  
