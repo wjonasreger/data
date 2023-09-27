@@ -5,7 +5,11 @@
     "concepts": [
       {
         "name": "Aglaonema",
-        "explanation": "The scientific name for the Chinese Evergreen plant, a popular indoor plant known for its attractive, variegated foliage."
+        "explanation": "The scientific name for the Chinese Evergreen plant, a popular indoor plant known for its attractive, variegated foliage.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Aglaonema",
+          "https://bloomscape.com/plant-care-guide/aglaonema/"
+        ]
       },
       {
         "name": "Chinese Evergreen Varieties",
